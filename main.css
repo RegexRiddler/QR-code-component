@@ -114,3 +114,17 @@ p {
     letter-spacing: .19px;
     padding: 16px;
 }
+
+.attribution { 
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  font-size: 11px; 
+  text-align: center; 
+  background-color: rgb(240, 240, 240);
+  padding: 8px;
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
